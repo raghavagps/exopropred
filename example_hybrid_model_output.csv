@@ -1,0 +1,5 @@
+Seq_ID,ML_Score,Positive_Motifs_Score,Negative_Motif_Score,Total_Score,Prediction
+>Seq_1,0.53,0.0,0.0,0.53,Exosomal
+>Seq_2,0.5,0.5,0.0,1.0,Exosomal
+>Seq_3,0.21,0.0,-0.5,-0.29,Non-Exosomal
+>Seq_4,0.41,0.0,0.0,0.41,Non-Exosomal

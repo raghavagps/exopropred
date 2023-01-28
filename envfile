@@ -1,0 +1,7 @@
+#Path information for PSI-BLAST commands
+#Path information of the data required to run the PSI-BLAST
+#User can change the paths according to their machines
+PSIBLAST:/usr/local/ncbi/blast/bin/psiblast
+MERCI_Locator:MERCI_motif_locator.pl
+Motif_Files:motifs
+PSI_BLAST_database:swissprot/swissprot

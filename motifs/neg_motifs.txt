@@ -1,0 +1,146 @@
+MERCI - Summary of options:
+ -p    pos_ige.fa
+ -n    neg_ige.fa
+ -k 	  10
+ -fp   1
+ -fn   8
+ -o    pos_motifs.txt
+ -l    10000
+ -s    10000
+ -c    KOOLMAN/ROHM
+ -g    0
+ -gl   2
+ -para 0
+
+
+Motifs:
+ Q S G Y
+ P S S P S S
+ F S L L S
+ L A E E D
+ L A L T S
+ S T S T T
+ W E P G
+ A A V G P
+ C A V C
+ C F T S
+ C S H E
+ D N A I
+ K H P K
+ L A L P L
+ L Q P G L
+ P S T L S
+ R A L G A
+ R S A S A
+ R W P P
+ R W R D
+ S F L R S
+ S W N K
+ T L F Y
+ T M L I
+ V R C H
+ V S L P gap S
+ F S L gap L S
+ F I I gap W
+ G S gap Q G P
+ H S S S gap P
+ P A R gap L P
+ P G R A gap R
+ Q S G Y
+ W A gap E I
+ A E P gap T P
+ G gap H H F
+ K N gap L R L
+ L gap R H Q R
+ L T L P gap F
+ R H gap R I H
+ S gap W M A
+ V gap V P L L
+ M V gap V gap C
+ G gap S gap Q G P
+ F I gap I gap W
+ H C gap P gap W
+ L gap R gap H Q R
+ P gap D A L gap A
+ S R T gap A gap P
+ V S L P gap S
+ E gap S T A gap P
+ R E P gap S gap G
+ aliphatic L aliphatic aliphatic aliphatic Y aromatic
+ aliphatic aliphatic aliphatic aliphatic F aliphatic aliphatic sulfur aromatic
+ F aliphatic aliphatic C W
+ T H R aliphatic neutral
+ aliphatic aliphatic A P neutral A aliphatic
+ aliphatic aliphatic aliphatic aliphatic F aliphatic aliphatic C aromatic
+ aliphatic aliphatic aliphatic neutral aliphatic P neutral G
+ S S aliphatic acidic acidic E
+ L L aliphatic P A neutral
+ aliphatic aliphatic aliphatic aliphatic aliphatic F aliphatic aliphatic sulfur aromatic
+ aliphatic aliphatic aliphatic aliphatic aliphatic aromatic aliphatic aliphatic sulfur aromatic
+ aliphatic aliphatic F aliphatic aliphatic sulfur aromatic aliphatic P
+ aliphatic aliphatic aromatic aliphatic aliphatic sulfur aromatic aliphatic P
+ aliphatic sulfur P V sulfur
+ aliphatic F aliphatic aliphatic sulfur W
+ aliphatic F aliphatic aliphatic sulfur aromatic aliphatic P
+ aliphatic aromatic aliphatic aliphatic sulfur aromatic aliphatic P
+ S neutral L neutral aliphatic N
+ neutral G aliphatic L neutral aliphatic aliphatic aliphatic
+ neutral Y aromatic neutral I
+ acidic basic P F S
+ basic aliphatic A L A aliphatic aliphatic
+ basic S A S A
+ basic S H L acidic
+ P V aliphatic basic basic neutral
+ C P V C
+ F L L I
+ M C C
+ R T E S
+ L K H K
+ R E R N
+ S E P D
+ R I H T G
+ S F G L
+ S Y P E
+ R L K gap H
+ S P P gap C
+ R R gap C S
+ C gap L P F
+ P V C gap R
+ A I V gap P
+ C P V C
+ H A S gap R
+ P C gap R P
+ P S C gap T
+ S gap C A P
+ T R P gap Q
+ W gap S S P
+ V gap L gap L S S
+ R L gap L gap S R
+ F L gap G gap L L
+ G P gap G R gap P
+ R L K gap H
+ S gap S S R gap L
+ L gap G gap L S A
+ F S gap L S gap L
+ H gap G E gap P F
+ L S gap A F gap L
+ P G gap R A gap A
+ P S S gap R gap P
+ P gap S S gap R P
+ R gap W P gap P
+ S F L gap L gap L
+ T gap P P G gap P
+ R aliphatic H T G
+ aliphatic aliphatic L aliphatic L F aliphatic
+ S A aliphatic aliphatic A aliphatic aliphatic aliphatic
+ T basic neutral G acidic basic
+ P P R neutral neutral
+ aliphatic aliphatic aromatic aliphatic aliphatic sulfur aromatic
+ sulfur R L neutral aliphatic
+ R aliphatic basic neutral aliphatic E basic
+ aliphatic aliphatic P A aliphatic R
+ aromatic aliphatic L sulfur aromatic
+ S A A aliphatic A aliphatic aliphatic
+ T H neutral G acidic basic
+ T basic neutral G E basic
+ H aliphatic basic I basic

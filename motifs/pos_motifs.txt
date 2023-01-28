@@ -1,0 +1,105 @@
+MERCI - Summary of options:
+ -p    pos_ige.fa
+ -n    neg_ige.fa
+ -k 	  10
+ -fp   1
+ -fn   0
+ -o    pos_motifs.txt
+ -l    10000
+ -s    10000
+ -c    KOOLMAN/ROHM
+ -g    0
+ -gl   2
+ -para 0
+
+
+Motifs:
+ A L A E G
+ C D G L
+ M K K N
+ N A R P
+ Q E E H
+ S L A T G
+ Y G P P G
+ A L A L I
+ D M S D
+ E L W G
+ H Q A G
+ M E N P
+ P K N Y
+ T M S G
+ V V A W
+ E R D gap E R
+ G G L gap V L
+ Q gap L S R L
+ A L A E gap G
+ A I gap E E L
+ E P V gap A G
+ E Q L L gap G
+ E R gap A V L
+ F L V gap E K
+ L A L gap D S
+ L gap E K N L
+ L S K A gap K
+ M gap N G I
+ R S gap S P K
+ Y G P P gap G
+ Y G gap P P G
+ I gap I gap S G G
+ E E V gap G gap K
+ D E gap G gap Q V
+ E L E E gap L gap Q
+ G D A gap D gap L
+ G R G gap G gap S G
+ L E gap K N gap Y
+ N I gap V L gap G
+ P gap K V gap A P
+ Q D gap E R gap R
+ neutral G K T S
+ E A E aliphatic aliphatic neutral aliphatic
+ aliphatic N aliphatic basic K aliphatic aliphatic
+ G acidic acidic K acidic
+ F aliphatic K acidic F
+ N aliphatic K S basic
+ neutral aliphatic aliphatic acidic sulfur aliphatic K
+ I acidic neutral S neutral aliphatic
+ L acidic neutral neutral basic basic aliphatic
+ aliphatic aliphatic basic E A aliphatic basic
+ aliphatic acidic neutral aromatic aliphatic acidic neutral
+ aliphatic K neutral E aliphatic I
+ aromatic E neutral aliphatic aliphatic neutral neutral
+ acidic neutral F basic aliphatic aliphatic aliphatic
+ E K Y L
+ I K A K
+ A R A I
+ I A T G
+ A L N E
+ I R D V
+ I V E N
+ N R A L
+ R V R G
+ T T S K
+ A I E gap T
+ P F gap R L
+ I gap R V R
+ D R gap A I
+ D gap R A I
+ I G K gap I
+ D gap I R V
+ L L E gap A L
+ E L R gap E L
+ N gap A V D
+ F gap D R gap F
+ F D gap R gap F
+ R D gap D gap Y
+ E K A gap L gap A
+ A I acidic T
+ D aliphatic D acidic aliphatic aliphatic
+ L E basic aliphatic aliphatic E
+ acidic aliphatic K neutral Y
+ acidic acidic aliphatic K aliphatic aliphatic aliphatic
+ L acidic K aliphatic aliphatic E
+ V neutral K aliphatic aromatic
+ aliphatic K E A aliphatic aliphatic
+ K E basic aromatic aliphatic
+ T K P aliphatic aliphatic

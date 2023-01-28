@@ -1,0 +1,5 @@
+Seq_ID,Score,Prediction
+>Seq_1,0.53,Exsosomal
+>Seq_2,0.5,Non-exsosomal
+>Seq_3,0.21,Non-exsosomal
+>Seq_4,0.41,Non-exsosomal
