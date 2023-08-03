@@ -3,6 +3,8 @@ A computational approach to predict the subcellular localisation of exosomal pro
 ## Introduction
 ExoProPred is a webserver to predict exosomal proteins based on hybrid model that combines machine learning model with motif-search approach. The models are trained on a dataset comprising of 2831 exosomal proteins and 2831 non-exosomal proteins. The performance of the models were evaluated using 5-fold cross-validation. The models were trained on top 70 best features comprising of composition-based and evolutionary information based features as well as on hybrid features(Top 70 features + Motif-search) by implementing random-forest classifier from the scikit library of python. In the standalone version, random-forerst classifier based model is implemented alongwith the motif-search usinf MERCI tool, named it as hybrid approach.
 ExoProPred is also available as web-server at https://webs.iiitd.edu.in/raghava/exopropred. Please read/cite the content about the ExoProPred for complete information including algorithm behind the approach.
+## Reference
+Arora A, Patiyal S, Sharma N, Devi NL, Kaur D, Raghava GPS. A random forest model for predicting exosomal proteins using evolutionary information and motifs. <a href="https://pubmed.ncbi.nlm.nih.gov/37525341/">Proteomics. 2023 Jul 31:e2300231. doi: 10.1002/pmic.202300231. Epub ahead of print. PMID: 37525341. </a>
 
 ## Standalone
 The Standalone version of transfacpred is written in python3 and following libraries are necessary for the successful run:
