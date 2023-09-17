@@ -6,6 +6,15 @@ ExoProPred is also available as web-server at https://webs.iiitd.edu.in/raghava/
 ## Reference
 Arora A, Patiyal S, Sharma N, Devi NL, Kaur D, Raghava GPS. A random forest model for predicting exosomal proteins using evolutionary information and motifs. <a href="https://pubmed.ncbi.nlm.nih.gov/37525341/">Proteomics. 2023 Jul 31:e2300231. doi: 10.1002/pmic.202300231. Epub ahead of print. PMID: 37525341. </a>
 
+## PIP Installation
+PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
+```
+pip install exopropred
+```
+To know about the available option for the pip package, type the following command:
+```
+exopropred -h
+```
 ## Standalone
 The Standalone version of transfacpred is written in python3 and following libraries are necessary for the successful run:
 - scikit-learn
