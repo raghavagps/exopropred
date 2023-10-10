@@ -16,10 +16,12 @@ To know about the available option for the pip package, type the following comma
 exopropred -h
 ```
 ## Standalone
-The Standalone version of transfacpred is written in python3 and following libraries are necessary for the successful run:
+The Standalone version of exopropred is written in python3 and following libraries are necessary for the successful run:
 - scikit-learn
 - Pandas
 - Numpy
+
+For the successful run of the standalone, please download and install the latest version for BLAST from https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/.
 
 ## Minimum USAGE
 To know about the available option for the stanadlone, type the following command:
