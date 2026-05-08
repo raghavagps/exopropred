@@ -6,6 +6,9 @@ ExoProPred is also available as web-server at https://webs.iiitd.edu.in/raghava/
 ## Reference
 Arora A, Patiyal S, Sharma N, Devi NL, Kaur D, Raghava GPS. A random forest model for predicting exosomal proteins using evolutionary information and motifs. <a href="https://pubmed.ncbi.nlm.nih.gov/37525341/">Proteomics. 2023 Jul 31:e2300231. doi: 10.1002/pmic.202300231. Epub ahead of print. PMID: 37525341. </a>
 
+## Zenodo
+https://doi.org/10.5281/zenodo.19940835
+
 ## Dataset folder
 Contain all the sataset
 
